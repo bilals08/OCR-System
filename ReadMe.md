@@ -1,4 +1,4 @@
-# OCR-System: Object Character Recognition using HOG Feature Extractor and Random Forest Classifier
+# TRS: Object Character Recognition using HOG Feature Extractor and Random Forest Classifier
 
 This is an implementation of OCR (Object Character Recognition) using the HOG (Histogram of Oriented Gradients) feature extractor and Random Forest Classifier. The dataset used for training on English Alphabet Dataset.
 
