@@ -13,6 +13,7 @@ The Random Forest Classifier is then used to train a model on the extracted feat
 * Scikit-learn
 
 ## Usage
+Run ClassifierOCR.py after setting the path
 
 ## Contributing
 Contributions to this project are welcome. Please feel free to create an issue or a pull request if you have any suggestions or improvements.
